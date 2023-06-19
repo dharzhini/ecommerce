@@ -1,5 +1,5 @@
 Ecommerce Management DBMS Project
-As a part of our University Curriculum, we made this project for Database Management Systems (DBMS) - ITE1003.
+As a part of our University Curriculum, we made this project for Database Management Systems (DBMS) 
 This project contains theoretical as well as implementation in SQL.
 If you liked the repo do ⭐ it.
 
